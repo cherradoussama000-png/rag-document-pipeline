@@ -13,6 +13,10 @@ Vector Database: Pinecone
 Embeddings: NVIDIA NeMo
 Text Splitter: Recursive Character
 Live Demo & Architecture Diagram
+Watch the demo
+Watch the demo
+Watch the demo
+Watch the demo
 
 [Uploading 058e0b<!doctype html>
 <html lang="en">
